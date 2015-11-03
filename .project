@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>assignment7</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>assignment7/answers7.py</name>
+			<type>1</type>
+			<location>/home/ds-ga-1007/answers7.py</location>
+		</link>
+		<link>
+			<name>assignment7/get_array.py</name>
+			<type>1</type>
+			<location>/home/ds-ga-1007/hw6.py</location>
+		</link>
+		<link>
+			<name>assignment7/mandelbrot.png</name>
+			<type>1</type>
+			<location>/home/ds-ga-1007/Documents/mandelbrot.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
